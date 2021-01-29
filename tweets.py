@@ -1,9 +1,9 @@
 import tweepy as tw
 
-consumer_key='ANXCHb996ZyO6LMOAh9Uq9EMi'
-consumer_secret ='EiUGos8M9xRPJnawN9QpdsWGVEY3j7PmwAE7EnAQaDg7m8WYIJ'
-access_token='1348652957051408385-XRei0L07XAR4XkmHvhjOGKMsCAAPRp'
-access_token_secret ='OIOx1itlZaJ0cT41S4pw4g1Wj7IkjyiMYXtPdpjD88XXz'
+consumer_key=''
+consumer_secret =''
+access_token=''
+access_token_secret =''
 
 def fetch(handle):
 	# Authenticate
